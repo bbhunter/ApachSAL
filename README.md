@@ -4,7 +4,7 @@
 </a>
 </p>
 <h1 align="center">
-  Apache Path Traversal
+  Apache Path Traversal 
 </h1>
   
 <img alt="GPL License" src="https://img.shields.io/github/license/imhunterand/ApachSAL?color=blue">
@@ -57,7 +57,7 @@ python main.py --file gov.ru.txt  --debug
 ```bash
 python main.py --help
 ```
-
+ 
 ```properties
 
                                    .,,
