@@ -19,7 +19,7 @@
 ### Path traversal (software bug) 
 A path traversal attack (also known as directory traversal) aims to access files and directories that are stored outside the web root folder. By manipulating variables that reference files with “dot-dot-slash (../)” sequences and its variations or by using absolute file paths, it may be possible to access arbitrary files and directories stored on file system including application source code or configuration and critical system files. It should be noted that access to files is limited by system operational access control (such as in the case of locked or in-use files on the Microsoft Windows operating system).
 
-## Disclaimer
+## Disclaimer 
 ```
 This or previous program is for Educational purpose ONLY. Do not use it without permission. 
 The usual disclaimer applies, especially the fact that me (Imhunterand) is not liable for any 
