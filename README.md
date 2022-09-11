@@ -28,7 +28,7 @@ programs. The author or any Internet provider bears NO responsibility for conten
 of these programs or any derivatives thereof. By using these programs you accept the fact 
 that any damage (dataloss, system crash, system compromise, etc.) caused by the use of these 
 programs is not Imhunterand responsibility.
-```
+``` 
 
 
 ### This script checks for vulnerabilities
