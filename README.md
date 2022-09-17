@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">
   Apache Path Traversal 
-</h1>
+</h1> 
   
 <img alt="GPL License" src="https://img.shields.io/github/license/imhunterand/ApachSAL?color=blue">
   
