@@ -10,7 +10,7 @@
 <img alt="GPL License" src="https://img.shields.io/github/license/imhunterand/ApachSAL?color=blue">
   
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/imhunterand/ApachSAL">
-
+ 
 <img alt="Python 3.8" src="https://img.shields.io/badge/python-3.8-yellow.svg">
 <img alt="Supported_OS Linux orange" src="https://img.shields.io/badge/Supported_OS-Linux-orange.svg">
 <img alt="Supported OS Mac" src="https://img.shields.io/badge/Supported_OS-Mac-orange.svg">
