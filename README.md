@@ -149,6 +149,8 @@ optional arguments:
 }
 ```
 
+[![Star History Chart](https://api.star-history.com/svg?repos=imhunterand/ApachSAL&type=Date)](https://star-history.com/#imhunterand/ApachSAL&Date)
+
 
 
 ### Ref.
@@ -159,3 +161,5 @@ optional arguments:
 - https://www.exploit-db.com/exploits/50406
 - https://www.exploit-db.com/exploits/49398
 - https://owasp.org/www-community/attacks/Path_Traversal
+
+
